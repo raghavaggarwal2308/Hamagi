@@ -1,0 +1,6 @@
+#itemPic {
+  transition: transform 0.2s;
+}
+#itemPic:hover {
+  transform: scale(1.2);
+}

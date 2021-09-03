@@ -1,0 +1,20 @@
+#logo {
+  /* margin-right: 20px; */
+  margin: 0%;
+  font-family: cursive;
+  font-weight: 3000;
+  font-size: 25px;
+  text-decoration: overline;
+  text-decoration-color: #ffc600;
+  text-decoration-thickness: 3px;
+  outline: none;
+}
+.cat {
+  background-color: #e8e8e8;
+  /* font-weight: bold; */
+  /* font-style: italic; */
+}
+
+#navbarSupportedContent {
+  margin-left: 20px;
+}

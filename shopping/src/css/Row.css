@@ -1,0 +1,20 @@
+.row_content {
+  margin: 15px 30px;
+}
+
+#row_products {
+  overflow: hidden;
+  overflow-y: hidden;
+  overflow-x: scroll;
+  display: flex;
+}
+
+#row_products::-webkit-scrollbar {
+  display: none;
+}
+
+#row_category {
+  text-decoration: underline;
+  text-decoration-color: #edba00;
+  text-decoration-thickness: 3px;
+}

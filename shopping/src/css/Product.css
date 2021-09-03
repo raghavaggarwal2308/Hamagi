@@ -1,0 +1,9 @@
+#product {
+  margin: 10px;
+  transition: transform 0.2s;
+}
+
+#product:hover {
+  transform: scale(1.05);
+  z-index: 1000;
+}
